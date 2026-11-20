@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Focus areas</title><desc id="desc">Data engineering, AI agents and knowledge applications</desc>
+<rect width="1200" height="260" rx="24" fill="#111b31"/>
+<circle cx="1040" cy="130" r="175" fill="#1a2a49"/>
+<text x="60" y="73" fill="#8da8df" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">BUILDING USEFUL THINGS</text>
+<text x="60" y="139" fill="#f5f7ff" font-family="Arial, sans-serif" font-size="43" font-weight="700">Data · AI · Applications</text>
+<text x="62" y="187" fill="#b4c3df" font-family="Arial, sans-serif" font-size="21">Python  /  Agents  /  RAG  /  Knowledge Graph</text>
+<path d="M852 85h72v72h-72z M961 112h63v63h-63z M1061 70h55v55h-55z" fill="none" stroke="#7c9fe6" stroke-width="3"/>
+<path d="M924 121h37m63 21h37" stroke="#7c9fe6" stroke-width="3"/>
+</svg>
